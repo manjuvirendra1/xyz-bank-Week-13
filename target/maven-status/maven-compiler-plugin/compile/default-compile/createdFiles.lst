@@ -1,0 +1,11 @@
+com\bank\utilities\Utility.class
+com\bank\pages\BankManagerLoginPage.class
+com\bank\pages\CustomerLoginPage.class
+com\bank\pages\CustomerPage.class
+com\bank\browserfactory\ManageBrowser.class
+com\bank\pages\HomePage.class
+com\bank\pages\OpenAccountPage.class
+com\bank\pages\AccountPage.class
+com\bank\utilities\Utility$1.class
+com\bank\pages\AddCustomerPage.class
+com\bank\propertyreader\PropertyReader.class
